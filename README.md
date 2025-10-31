@@ -1,7 +1,7 @@
 Hi, I’m Rishika Thakur!
 MERN Stack Developer | Creative Technologist
 
-1. I’m a passionate web developer skilled in the MERN stack, dedicated to building modern, scalable, and user-focused web applications. I love transforming ideas into responsive, intuitive, and high-performing digital experiences. From designing clean, engaging interfaces to architecting efficient back-end systems, I bring both creativity and technical precision to every project.
+I’m a passionate web developer skilled in the MERN stack, dedicated to building modern, scalable, and user-focused web applications. I love transforming ideas into responsive, intuitive, and high-performing digital experiences. From designing clean, engaging interfaces to architecting efficient back-end systems, I bring both creativity and technical precision to every project.
 
 💡 My Current Focus:
 Taking my MERN expertise to the next level by working on real-world, production-grade projects and exploring advanced back-end development patterns.
